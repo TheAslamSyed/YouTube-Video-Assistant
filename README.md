@@ -103,7 +103,7 @@ LLM = Google Gemini, Groq or Mistral — selectable in the sidebar
 **Install**
 
 ```bash
-git clone https://github.com/Sowjanya45/ai-video-assistant.git
+git clone https://github.com/TheAslamSyed/YouTube-Video-Assistant.git
 cd ai-video-assistant
 python -m venv venv
 venv\Scripts\activate            # Windows PowerShell / cmd
